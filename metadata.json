@@ -1,0 +1,6 @@
+{
+  "name": "MIZAN ACCOUNTING ULTRA — نظام ميزان المحاسبي الشامل",
+  "description": "نظام ميزان المحاسبي الشامل والمتطور (Mizan Accounting Ultra) لإدارة الحسابات، المخزون، الفواتير، استوديو الكتالوج والتصميم 3D، وماسح الباركود ووكيل التطوير.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
